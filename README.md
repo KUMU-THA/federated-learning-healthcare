@@ -79,18 +79,4 @@ There are a number of ways to contribute depending on what you're interested in:
     introduce interfaces and guidelines for contributing to a simulation
     infrastructure.
 
-Please be sure to review the
-[contribution](https://github.com/google-parfait/tensorflow-federated/blob/main/CONTRIBUTING.md#guidelines)
-guidelines on how to contribute.
 
-## Issues
-
-Use
-[GitHub issues](https://github.com/google-parfait/tensorflow-federated/issues)
-for tracking requests and bugs.
-
-## Questions
-
-Please direct questions to [Stack Overflow](https://stackoverflow.com) using the
-[tensorflow-federated](https://stackoverflow.com/questions/tagged/tensorflow-federated)
-tag.
